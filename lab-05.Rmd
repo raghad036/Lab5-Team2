@@ -7,16 +7,17 @@ Team Name:
 
 Team Members - Name and Student ID
 
-1.
+1.Raghad-2201003988
 
-2.
+2.Rawzan-2201001767
 
-3.
+3.Rawan-2201002992
 
-4.
+4.Hanan-2201003965
 
+5.Rana-2201000999
 
-
+6.Razan-2201001296
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(eval = TRUE)
 ```

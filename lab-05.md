@@ -5,10 +5,17 @@ Team Name:
 
 Team Members - Name and Student ID
 
-1.  
-2.  
-3.  
-4.  
+1.Raghad-2201003988
+
+2.Rawzan-2201001767
+
+3.Rawan-2201002992
+
+4.Hanan-2201003965
+
+5.Rana-2201000999
+
+6.Razan-2201001296
 
 ## Packages
 
@@ -17,6 +24,9 @@ Load tidyverse below
 ``` r
 library(tidyverse)
 ```
+
+    ## Warning in system("timedatectl", intern = TRUE): running command 'timedatectl'
+    ## had status 1
 
 ## Data
 
