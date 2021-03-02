@@ -1,7 +1,7 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:
+Team Name:team2
 
 Team Members - Name and Student ID
 
@@ -9,13 +9,9 @@ Team Members - Name and Student ID
 
 2.Rawzan-2201001767
 
-3.Rawan-2201002992
+3.Rawan-2201002992 - Rana-2201000999
 
-4.Hanan-2201003965
-
-5.Rana-2201000999
-
-6.Razan-2201001296
+4.Hanan-2201003965 - Razan-2201001296
 
 ## Packages
 
